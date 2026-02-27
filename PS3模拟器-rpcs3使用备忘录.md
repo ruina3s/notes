@@ -11,7 +11,7 @@ PS3模拟器-rpcs3使用备忘录
 
 下载页面下载即可（实际还是从GitHub上下载[RPCS3/rpcs3: PlayStation 3 emulator and debugger](https://github.com/RPCS3/rpcs3)）
 
-![image-20250705102653133](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20250705102653133.png)
+![image-20250705102653133](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20250705102653133.png)
 
 下载后直接解压便可
 
