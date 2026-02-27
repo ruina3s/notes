@@ -30,15 +30,15 @@ sqlite
 
 windows：
 
-![image-20221217172157618](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221217172157618.png)
+![image-20221217172157618](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20221217172157618.png)
 
 下载所需要的部分（第三个必下），解压后的文件放到想放的地方
 
-![image-20221217172341064](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221217172341064.png)
+![image-20221217172341064](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20221217172341064.png)
 
 再设置环境变量那里的Path项中加入你上述文件所存放的路径
 
-![image-20221217172607603](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221217172607603.png)
+![image-20221217172607603](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20221217172607603.png)
 
 
 
@@ -68,7 +68,7 @@ windows：
 
 可以用该命令创建新的数据库，如果该数据库存在，则直接打开，一个数据库即一个文件，不需要直接删除即可
 
-![image-20230107143852125](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230107143852125.png)
+![image-20230107143852125](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20230107143852125.png)
 
 
 
@@ -86,11 +86,11 @@ CREATE TABLE database_name.table_name(
 
 如：
 
-![image-20230107143539817](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230107143539817.png)
+![image-20230107143539817](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20230107143539817.png)
 
 可以用".tables"来验证是否创建成功
 
-![image-20230107143555281](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230107143555281.png)
+![image-20230107143555281](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20230107143555281.png)
 
 
 
@@ -111,7 +111,7 @@ VALUES (value1, value2, value3,...valueN);
 
 如果全部要添加，那么就可以不写列名
 
-![image-20230107143449947](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230107143449947.png)
+![image-20230107143449947](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20230107143449947.png)
 
 
 
@@ -129,7 +129,7 @@ SELECT column1, column2, columnN FROM table_nameWHERE [condition1] OR [condition
 
 如：
 
-![image-20230107143612110](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230107143612110.png)
+![image-20230107143612110](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20230107143612110.png)
 
 
 
@@ -144,7 +144,7 @@ WHERE [condition];
 
 如：
 
-![image-20230107143659225](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230107143659225.png)
+![image-20230107143659225](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20230107143659225.png)
 
 
 
@@ -156,7 +156,7 @@ DELETE FROM table_name WHERE [condition];
 
 如：
 
-![image-20230107143727786](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230107143727786.png)
+![image-20230107143727786](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20230107143727786.png)
 
 
 
@@ -203,6 +203,5 @@ DELETE FROM table_name WHERE [condition];
 
 在vscode中使用插件对sqlite数据库进行访问
 
-![image-20230107201446766](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230107201446766.png)
-
+![image-20230107201446766](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20230107201446766.png)
 

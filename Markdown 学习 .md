@@ -1,8 +1,11 @@
 ```
 # Markdown 学习 
 ```
+[Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
 我展示的是一级标题
 ==
+
 我是二级标题
 --
 
@@ -775,7 +778,7 @@ Note right of C: 没人陪我玩
         测试报告                               : 48h
 ```
 
-````markdown
+```` markdown
 ```mermaid
 %% 语法示例
         gantt
