@@ -13,7 +13,7 @@
 常用材质节点：
 ![image-20260318193324160](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20260318193324160.png)
 
-# 1
+# 1.基础
 
 ![image-20260318194619899](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20260318194619899.png)
 
@@ -52,7 +52,7 @@ G、R、S等键加X、Y、Z则可以锁定在对应轴上进行变换
 
 
 
-# 2
+# 2.建模
 
 ## 2.1
 
@@ -99,3 +99,9 @@ G、R、S等键加X、Y、Z则可以锁定在对应轴上进行变换
 材质纹理有关
 
 ![image-20260406160342286](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20260406160342286.png)
+
+## 2.8
+
+主讲建模思路
+
+# 3.材质
