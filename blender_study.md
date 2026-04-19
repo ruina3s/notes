@@ -105,3 +105,15 @@ G、R、S等键加X、Y、Z则可以锁定在对应轴上进行变换
 主讲建模思路
 
 # 3.材质
+
+![image-20260415164727033](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20260415164727033.png)
+
+## 3.1
+
+![image-20260415164811464](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20260415164811464.png)
+
+![image-20260415165423125](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20260415165423125.png)
+
+保存自定义材质，点击“盾牌”![image-20260415165727412](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20260415165727412.png)
+
+![image-20260415171531981](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20260415171531981.png)
