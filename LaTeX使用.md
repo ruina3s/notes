@@ -4,9 +4,9 @@ date: 2025-01-01
 updated: 2025-01-01
 author: RUINA3S
 tags: [LaTeX, TeX, 教程]
-category: [备忘录, 技术]
-description: "LaTeX工具与使用方式简要记录"
-status: 记录中
+category: [备忘�? 技术]
+description: "LaTeX工具与使用方式简要记�?
+status: 记录�?
 draft: true
 ---
 
@@ -14,7 +14,7 @@ draft: true
 
 ## 1.使用
 
-**texlive**+**vscode**（有插件）
+**texlive**+**vscode**（有插件�?
 
 ## 2.绘图
 
