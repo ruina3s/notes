@@ -14,7 +14,7 @@ draft: true
 
 windows（10/11）主题的设置，**设置->个性化->主题**中设置，或是在**控制面板->外观和个性化**中设置
 
-![image-20221128114259291](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221128114259291.png)
+![image-20221128114259291](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221128114259291.png)
 
 可自定义修改对应内容，修改完后可保存，在下面的**改变主题**项中右键可分享出自己的主题，但基本只有背景图片，而声音、鼠标光标不会在主题文件中，需要自己另行处理
 

@@ -176,19 +176,19 @@ Tracker Lists https://github.com/XIU2/TrackersListCollection/blob/master/README-
 
 下载网站：[ffmpeg](https://ffmpeg.org/)
 
-![image-20220913092549040](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913092549040.png)
+![image-20220913092549040](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913092549040.png)
 
 下载后得到的压缩包解压，并按需求放置于固定位置，并记录以下文件所处路径
 
-![image-20220913092901415](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913092901415.png)
+![image-20220913092901415](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913092901415.png)
 
 打开“控制面板”-“用户账户”-“更改我的环境变量”进行配置
 
-![image-20220913093105618](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913093105618.png)
+![image-20220913093105618](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913093105618.png)
 
 在path项中增加刚才的文件路径，通过命令行输入ffmpeg -version来检测是否配置完成
 
-![image-20220913093253962](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913093253962.png)
+![image-20220913093253962](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913093253962.png)
 
 
 
@@ -247,9 +247,9 @@ ffprobe -show_format xxxx.xxx
 
 **GitZip for github**：使用后文件或目录前出现勾选框，勾选后在网页上选择该图标下载
 
-![image-20221010164542288](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221010164542288.png)
+![image-20221010164542288](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221010164542288.png)
 
-![image-20221010164643736](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221010164643736.png)
+![image-20221010164643736](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221010164643736.png)
 
 注：打开库若无勾选框可刷新页面再看是否出现
 
@@ -275,7 +275,7 @@ ffprobe -show_format xxxx.xxx
 
 中文包
 
-![image-20221024094112623](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221024094112623.png)
+![image-20221024094112623](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221024094112623.png)
 
 
 
@@ -350,13 +350,13 @@ bcdedit /set hypervisorlaunchtype Auto
 
 ### 22.edge游览器插件dark_reader设置
 
-![dark_reader设置](https://raw.githubusercontent.com/ruina3s/imgs/main/dark_reader%E8%AE%BE%E7%BD%AE.png)
+![dark_reader设置](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/dark_reader%E8%AE%BE%E7%BD%AE.png)
 
 
 
 ### 23.技能树
 
-![cs skill tree](https://raw.githubusercontent.com/ruina3s/imgs/main/cs%20skill%20tree.png)
+![cs skill tree](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/cs%20skill%20tree.png)
 
 
 
@@ -505,7 +505,7 @@ copy /b 图片路径\图片名.后缀+压缩包文件路径\压缩包文件名.�
 
 示例：
 
-![image-20230607170157144](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230607170157144.png)
+![image-20230607170157144](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20230607170157144.png)
 
 
 

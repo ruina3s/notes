@@ -41,7 +41,7 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 项目网站对颜色有以下的示例：
 
-![image-20221101135006707](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221101135006707.png)
+![image-20221101135006707](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221101135006707.png)
 
 可用表示颜色的词也支持rgb形式
 

@@ -22,11 +22,10 @@ draft: true
 
 下载页面下载即可（实际还是从GitHub上下载[RPCS3/rpcs3: PlayStation 3 emulator and debugger](https://github.com/RPCS3/rpcs3)）
 
-![image-20250705102653133](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20250705102653133.png)
+![image-20250705102653133](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20250705102653133.png)
 
 下载后直接解压便可
-
-![image-20250705103851953](C:/Users/RUINA/AppData/Roaming/Typora/typora-user-images/image-20250705103851953.png)
+![image-20250705103851953](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20250705103851953.png)
 
 汉化来自贴吧（补丁及整合包[蓝奏](https://wwxs.lanzoum.com/b04dsd1oj)密码:fpou）
 
@@ -44,9 +43,9 @@ draft: true
 
 参考[RPCS3 - Quickstart](https://rpcs3.net/quickstart)
 
-![image-20250705134257968](C:/Users/RUINA/AppData/Roaming/Typora/typora-user-images/image-20250705134257968.png)
+![image-20250705134257968](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20250705134257968.png)
 
-![image-20250705134416540](C:/Users/RUINA/AppData/Roaming/Typora/typora-user-images/image-20250705134416540.png)
+![image-20250705134416540](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20250705134416540.png)
 
 
 
@@ -66,8 +65,8 @@ https://www.bilibili.com/video/BV1TY411M7KA
 
 运行《机战OG月之民》使用了如下设置改动
 
-![image-20250705135258124](C:/Users/RUINA/AppData/Roaming/Typora/typora-user-images/image-20250705135258124.png)
+![image-20250705135258124](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20250705135258124.png)
 
-![image-20250705135333165](C:/Users/RUINA/AppData/Roaming/Typora/typora-user-images/image-20250705135333165.png)
+![image-20250705135333165](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20250705135333165.png)
 
-![image-20250705135403426](C:/Users/RUINA/AppData/Roaming/Typora/typora-user-images/image-20250705135403426.png)
+![image-20250705135403426](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20250705135403426.png)

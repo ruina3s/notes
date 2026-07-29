@@ -26,11 +26,11 @@ JS作为一种编程语言，可用来与游览器中的网页元素进行交互
 
 安装Node.js，建立一个工程文件夹新建一文件**<u>helloworld.js</u>**
 
-![image-20230124161050738](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230124161050738.png)
+![image-20230124161050738](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20230124161050738.png)
 
 在命令行中，进入对应的文件夹位置，输入命令<kbd>node helloworld.js</kbd>
 
-![image-20230124161313527](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230124161313527.png)
+![image-20230124161313527](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20230124161313527.png)
 
 # 语法
 

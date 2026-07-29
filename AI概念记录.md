@@ -24,9 +24,9 @@ LLM（大型语言模型）是通过训练大量文本数据而获得的能力�
 ### 2.tokenizer
 负责在用户与LLM之间进行文本与数组的转换(编码:将文本转换为token序列，解码:将token序列转换为文本)，将用户输入的文本转换为LLM可以理解的token序列，同时将LLM的输出序列转换为用户可以理解的文本。
 
-![编码](https://raw.githubusercontent.com/ruina3s/imgs/main/20260505195901.png)
+![编码](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/20260505195901.png)
 
-![tokenizer运行过程](https://raw.githubusercontent.com/ruina3s/imgs/main/20260505200004.png)
+![tokenizer运行过程](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/20260505200004.png)
 
 token：大模型处理文本的最基本单位
 
@@ -50,7 +50,7 @@ RAG：Retrieval-Augmented Generation，检索增强生成，是指在生成文�
 ### 4.Prompt
 Prompt（提示词）是指用户输入给LLM的文本，用于引导LLM生成特定的输出。Prompt可以是一个问题、一个命令、一个描述或者任何形式的文本，旨在引导LLM生成符合用户需求的文本。
 
-![提示词分类](https://raw.githubusercontent.com/ruina3s/imgs/main/20260505202744.png)
+![提示词分类](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/20260505202744.png)
 
 ### 5.tool
 Tool（工具）是指在LLM的基础上，结合其他功能模块或外部资源，提供特定功能的AI应用程序。Tool可以是一个独立的应用程序，也可以是一个集成在LLM中的功能模块，旨在满足用户的特定需求。

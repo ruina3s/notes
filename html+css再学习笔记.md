@@ -48,7 +48,7 @@ html为一种标记语言，用标签（多数成对出现）来标记
 
 自成一行，独占剩余
 
-![image-20220819150333181](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220819150333181.png)
+![image-20220819150333181](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220819150333181.png)
 
 可包含其它块级和行内元素
 
@@ -58,7 +58,7 @@ html为一种标记语言，用标签（多数成对出现）来标记
 
 只在行内占用必要宽度
 
-![image-20220819150407259](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220819150407259.png)
+![image-20220819150407259](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220819150407259.png)
 
 只能包含数据和其它行内元素
 
@@ -1065,7 +1065,7 @@ rt标记注音符号，rp显示游览器不支持ruby元素时显示内容
 
 ### html5开始的布局用元素
 
-![image-20220827124905425](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220827124905425.png)
+![image-20220827124905425](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220827124905425.png)
 
 ### header
 
@@ -1483,7 +1483,7 @@ div > p { }
 
 ## 4.4.属性选择器
 
-![image-20220827162950844](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220827162950844.png)
+![image-20220827162950844](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220827162950844.png)
 
 
 
@@ -1532,19 +1532,19 @@ background-image: url("")[, url("")];/*左盖右*/
 
 **background-repeat**背景重复
 
-![image-20220828113733455](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220828113733455.png)
+![image-20220828113733455](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220828113733455.png)
 
 
 
 **background-position**背景位置
 
-![image-20220828113906241](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220828113906241.png)
+![image-20220828113906241](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220828113906241.png)
 
 
 
 **background-size**背景大小
 
-![image-20220828114116578](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220828114116578.png)
+![image-20220828114116578](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220828114116578.png)
 
 
 
@@ -1558,7 +1558,7 @@ background-image: url("")[, url("")];/*左盖右*/
 
 背景开始绘制位置
 
-![image-20220828114412919](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220828114412919.png)
+![image-20220828114412919](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220828114412919.png)
 
 
 
@@ -1576,7 +1576,7 @@ background-image: url("")[, url("")];/*左盖右*/
 
 border-style
 
-![image-20220913101438746](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913101438746.png)
+![image-20220913101438746](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913101438746.png)
 
 
 
@@ -1610,7 +1610,7 @@ border-style: [top] [right、left] [bottom]
 border-radius: 15px 15px;
 ```
 
-![image-20220913102538874](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913102538874.png)
+![image-20220913102538874](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913102538874.png)
 
 决定边框的水平与竖直半径，用/分开说明是一个角的水平与竖直的设置，而不是两对设置
 
@@ -1630,7 +1630,7 @@ border-image-width: ;/*图片边框宽度*/
 border-image-outset: ;/*图片边框绘制起始位置，是向外扩张的距离*/
 ```
 
-![image-20220913103316060](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913103316060.png)
+![image-20220913103316060](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913103316060.png)
 
 
 
@@ -1646,7 +1646,7 @@ border-image-outset: ;/*图片边框绘制起始位置，是向外扩张的距�
 
 ### 元素尺寸设置
 
-![image-20220913105050209](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913105050209.png)
+![image-20220913105050209](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913105050209.png)
 
 设置box-size的值，width、height将包含对应内外边距、边框、内容的大小
 
@@ -1669,7 +1669,7 @@ scroll指滚动条，auto为超出加滚动条没有就不加，hidden隐藏
 
 resize是否允许用户改变元素大小
 
-![image-20220913110111444](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913110111444.png)
+![image-20220913110111444](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913110111444.png)
 
 
 
@@ -1688,7 +1688,7 @@ outline-offset: ;/*与元素的距离*/
 
 ### box-shadow阴影
 
-![image-20220913110906999](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913110906999.png)
+![image-20220913110906999](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913110906999.png)
 
 多个阴影效果可用都好分割，阴影边框与元素border一致
 
@@ -1730,7 +1730,7 @@ direction属性，ltr（左至右）默认，rtl（右至左），但是是指�
 
 writing-mode属性
 
-![image-20221003180454015](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221003180454015.png)
+![image-20221003180454015](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221003180454015.png)
 
 
 
@@ -1762,13 +1762,13 @@ line-height: 2;//不带单位为该元素字体尺寸的倍数
 
 ### 文本纵向对齐方式vertical-align
 
-![image-20221003181414930](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221003181414930.png)
+![image-20221003181414930](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221003181414930.png)
 
 
 
 ### 文本阴影text-shadow
 
-![image-20221003181658825](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221003181658825.png)
+![image-20221003181658825](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221003181658825.png)
 
 ```css
 text-shadow: 2px 2px 5px red;
@@ -1813,7 +1813,7 @@ overflow: hidden;
 
 ### 转换大小写text-transform
 
-![image-20221003183651435](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221003183651435.png)
+![image-20221003183651435](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221003183651435.png)
 
 
 
@@ -1844,7 +1844,7 @@ overflow: hidden;
 
 ### 过渡transition
 
-![image-20221003185855928](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221003185855928.png)
+![image-20221003185855928](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221003185855928.png)
 
 不指定过渡属性名就全部适用，未被指定的就无过渡效果，若指定不同属性不同过渡用逗号分割
 
@@ -1964,15 +1964,15 @@ perspective: 2000px;
 
 样式1变为样式2的加强过渡
 
-![image-20221003194642667](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221003194642667.png)
+![image-20221003194642667](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221003194642667.png)
 
 关键帧
 
-![image-20221003194745844](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221003194745844.png)
+![image-20221003194745844](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221003194745844.png)
 
 animetion-direction指定动画方向
 
-![image-20221003195024307](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221003195024307.png)
+![image-20221003195024307](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221003195024307.png)
 
 
 
@@ -2023,7 +2023,7 @@ both停止该元素两侧的浮动，left仅停止该元素左侧的浮动，rig
 
 ### position定位
 
-![image-20220913141446753](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913141446753.png)
+![image-20220913141446753](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913141446753.png)
 
 top、bottom、left、right指定元素对应方位的偏移量；当设为absolute且外部没有元素设定position则用最外层元素；sticky为粘滞定位，使用top等属性时可设定粘滞的位置。
 
@@ -2039,7 +2039,7 @@ top、bottom、left、right指定元素对应方位的偏移量；当设为absol
 
 BLock Formatting contexts块级格式化上下文，建立一个容器，内部与外部互不干扰，以下条件均可建立一个BFC容器
 
-![image-20220913145628958](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913145628958.png)
+![image-20220913145628958](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913145628958.png)
 
 浮动包裹
 
@@ -2080,7 +2080,7 @@ BLock Formatting contexts块级格式化上下文，建立一个容器，内部�
 
 ### 多列布局
 
-![image-20220913145526695](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913145526695.png)
+![image-20220913145526695](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913145526695.png)
 
 column-rule的值与border相似
 
@@ -2261,13 +2261,13 @@ display属性设置为flex（块样式）；inline-flex为行内块，内容多�
 
 flex-wrap属性
 
-![image-20220913193947554](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913193947554.png)
+![image-20220913193947554](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913193947554.png)
 
 
 
 flex-direction属性
 
-![image-20220913194147541](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913194147541.png)
+![image-20220913194147541](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913194147541.png)
 
 flex-wrap与flex-direction可合并为flex-flow
 
@@ -2279,21 +2279,21 @@ flex-wrap与flex-direction可合并为flex-flow
 
 垂轴：垂轴决定了在换行，第二行元素的添加方向，与主轴垂直
 
-![image-20220913195219654](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913195219654.png)
+![image-20220913195219654](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913195219654.png)
 
-![image-20220913195533281](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220913195533281.png)
+![image-20220913195533281](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220913195533281.png)
 
 
 
 justify-content主轴的对齐方式
 
-![image-20220921145516209](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921145516209.png)
+![image-20220921145516209](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921145516209.png)
 
 
 
 align-items
 
-![image-20220921150058426](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921150058426.png)
+![image-20220921150058426](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921150058426.png)
 
 align-self只改变单独一个元素的对齐方式，在弹性元素中设置
 
@@ -2301,7 +2301,7 @@ align-self只改变单独一个元素的对齐方式，在弹性元素中设置
 
 align-content多行弹性布局的垂轴布局
 
-![image-20220921150606682](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921150606682.png)
+![image-20220921150606682](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921150606682.png)
 
 
 
@@ -2337,7 +2337,7 @@ flex-grow、flex-shrink、flex-basis的整合版，默认值为：0 1 auto
 
 ### 栅格布局
 
-![image-20220921154004399](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921154004399.png)
+![image-20220921154004399](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921154004399.png)
 
 要创建栅格容器要给display属性设置为：grid或者inline-grid
 
@@ -2353,9 +2353,9 @@ flex-grow、flex-shrink、flex-basis的整合版，默认值为：0 1 auto
 
 **grid-template-areas**定义区域
 
-![image-20220921155425854](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921155425854.png)
+![image-20220921155425854](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921155425854.png)
 
-![image-20220921155433638](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921155433638.png)
+![image-20220921155433638](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921155433638.png)
 
 字符串中的关键字不可合并，区域形状必须为矩形
 
@@ -2363,9 +2363,9 @@ flex-grow、flex-shrink、flex-basis的整合版，默认值为：0 1 auto
 
 与grid-template-rows、grid-template-columns可组合使用，也可缩写
 
-![image-20220921160142318](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921160142318.png)
+![image-20220921160142318](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921160142318.png)
 
-![image-20220921160234522](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921160234522.png)
+![image-20220921160234522](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921160234522.png)
 
 
 
@@ -2421,7 +2421,7 @@ grid-gap定义栅格元素的间距，为grid-column-gap与grid-row-gap，缩写
 
 栅格线
 
-![image-20220921163411804](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921163411804.png)
+![image-20220921163411804](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921163411804.png)
 
 可用 [ ] 框起来，多个名字用空格分开 
 
@@ -2433,7 +2433,7 @@ grid-gap定义栅格元素的间距，为grid-column-gap与grid-row-gap，缩写
 
 **grid-row-end**
 
-![image-20220921163828033](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921163828033.png)
+![image-20220921163828033](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921163828033.png)
 
 省略结束的位置时用起始的下一条开始，不起名可用默认的数字；栅格可重叠，调整可用z-index或order来调整
 
@@ -2443,15 +2443,15 @@ grid-gap定义栅格元素的间距，为grid-column-gap与grid-row-gap，缩写
 
 
 
-grid-auto-flow![image-20220921164744478](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921164744478.png)
+grid-auto-flow![image-20220921164744478](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921164744478.png)
 
 
 
 **grid**为grid-template-rows、grid-template-areas、grid-template-columns、grid-auto-rows、grid-auto-columns、grid-auto-flow简写
 
-![image-20220921165613887](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921165613887.png)
+![image-20220921165613887](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921165613887.png)
 
-![image-20220921165649268](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220921165649268.png)
+![image-20220921165649268](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220921165649268.png)
 
 
 # 6.补充

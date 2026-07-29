@@ -32,7 +32,7 @@ draft: false
 
 接着配置vscode，单击F1，输入json，选择“setting.json” （注意不要选成默认default的了）
 
-![image-20220620144607320](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220620144607320.png)
+![image-20220620144607320](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220620144607320.png)
 
 粘贴以下内容：
 
@@ -169,13 +169,13 @@ pdflatex 文件名
 
 在vscode中则直接选择文件右上角的绿色三角按钮即可进行编译
 
-![image-20220620145551468](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220620145551468.png)
+![image-20220620145551468](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220620145551468.png)
 
 按下<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>p</kbd>后输入“view latex”或按快捷键<kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>v</kbd>可打开tex文件的pdf文件查看
 
-![image-20220620145912619](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220620145912619.png)
+![image-20220620145912619](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220620145912619.png)
 
-![image-20220620150032827](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220620150032827.png)
+![image-20220620150032827](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220620150032827.png)
 
 
 
@@ -242,7 +242,7 @@ Latex对大小写是**敏感**的
 
 ⟨class-name⟩指定文档的类型
 
-![image-20230217145609931](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230217145609931.png)
+![image-20230217145609931](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20230217145609931.png)
 
 其基础上派生的一些文档类如支持中文排版的 ctexart / ctexrep / ctexbook，或者有其它功能的一些文档类，如 moderncv / beamer 等。
 
@@ -415,7 +415,7 @@ LATEX 还提供了一个 \includeonly 命令来组织文件，用于**导言区*
 
 ## 2.4.拉丁文扩展与重音
 
-![image-20230218190130198](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230218190130198.png)
+![image-20230218190130198](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20230218190130198.png)
 
 
 
@@ -518,9 +518,9 @@ book 文档类还提供了前言、正文、后记结构的划分命令：
 % article 文档类的标题默认不单独成页，而 report 和 book 默认单独成页。
 ```
 
-![image-20230219143655258](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230219143655258.png)
+![image-20230219143655258](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20230219143655258.png)
 
-![image-20230219143758610](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230219143758610.png)
+![image-20230219143758610](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20230219143758610.png)
 
 
 
@@ -696,7 +696,7 @@ listings 宏包更进一步，可生成关键字高亮的代码环境，支持�
 
 注：快捷键不管用时可选择公式右侧的三角按钮选择“专用”，需再编辑时选择“线性”
 
-![image-20220621155627901](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220621155627901.png)
+![image-20220621155627901](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220621155627901.png)
 
 ## 1.1行内公式与行间公式
 

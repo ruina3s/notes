@@ -24,15 +24,15 @@ draft: false
 
 <kbd>win</kbd>+<kbd>R</kbd>打开命令输入cmd启动命令提示符
 
-![image-20220531144652513](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531144652513.png)
+![image-20220531144652513](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531144652513.png)
 
 或者新建文件并将文件名后缀修改为：文件名.bat 或者 文件名.cmd 后编辑运行
 
-![image-20220531144909203](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531144909203.png)
+![image-20220531144909203](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531144909203.png)
 
-![image-20220531144945918](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531144945918.png)
+![image-20220531144945918](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531144945918.png)
 
-![image-20220531144955826](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531144955826.png)
+![image-20220531144955826](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531144955826.png)
 
 
 
@@ -40,11 +40,11 @@ draft: false
 
 在命令行界面输入help即可查看其语句，使用help+空格+语句即可查看使用方式
 
-![image-20220531145249269](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531145249269.png)
+![image-20220531145249269](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531145249269.png)
 
 如清楚屏幕命令help+空格+<kbd>cls</kbd>
 
-![image-20220531145322641](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531145322641.png)
+![image-20220531145322641](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531145322641.png)
 
 也可以使用 语句+空格+/? 来进行 
 
@@ -54,7 +54,7 @@ draft: false
 
 ### 1.3.1 注释 REM
 
-![image-20220531145723647](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531145723647.png)
+![image-20220531145723647](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531145723647.png)
 
 REM为注释命令，一般用来给程序加上注解，该命令后的内容不被执行，但能回显。
 其次, :: 也可以起到rem 的注释作用, 而且更简洁有效; 但有两点需要注意：
@@ -130,7 +130,7 @@ Echo 其他提示语 & pause > nul
 
 例：
 
-![image-20220531182438077](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531182438077.png)
+![image-20220531182438077](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531182438077.png)
 
 # 2.文件目录磁盘操作
 
@@ -151,9 +151,9 @@ ASSOC [.ext[=[fileType]]]
 
 例：
 
-![image-20220531150459092](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531150459092.png)
+![image-20220531150459092](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531150459092.png)
 
-![image-20220531150519779](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531150519779.png)
+![image-20220531150519779](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531150519779.png)
 
 ## 2.2 ATTRIB
 
@@ -184,11 +184,11 @@ ASSOC [.ext[=[fileType]]]
 
 例：
 
-![image-20220531150737005](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531150737005.png)
+![image-20220531150737005](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531150737005.png)
 
-![image-20220531151021182](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531151021182.png)
+![image-20220531151021182](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531151021182.png)
 
-![image-20220531151036127](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531151036127.png)
+![image-20220531151036127](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531151036127.png)
 
 ## 2.3 CD/CHDIR
 ```
@@ -228,7 +228,7 @@ CHDIR 命令不把空格当作分隔符，因此有可能将目录名改为一�
 
 例：
 
-![image-20220531152243687](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531152243687.png)
+![image-20220531152243687](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531152243687.png)
 
 ## 2.4 CHKDSK
 
@@ -365,7 +365,7 @@ COLOR [attr]
 
 例：
 
-![image-20220531153131635](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531153131635.png)
+![image-20220531153131635](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531153131635.png)
 
 ## 2.7 COMP
 
@@ -422,7 +422,7 @@ COPY [/D] [/V] [/N] [/Y | /-Y] [/Z] [/L] [/A | /B ] source [/A | /B]
 
 例：
 
-![image-20220531154133051](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531154133051.png)
+![image-20220531154133051](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531154133051.png)
 
 ## 2.9 DEL/ERASE
 
@@ -453,7 +453,7 @@ ERASE [/P] [/F] [/S] [/Q] [/A[[:]attributes]] names
 
 例：
 
-![image-20220531154717281](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531154717281.png)
+![image-20220531154717281](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531154717281.png)
 
 ## 2.10 DIR
 
@@ -569,9 +569,9 @@ FIND [/V] [/C] [/N] [/I] [/OFF[LINE]] "string" [[drive:][path]filename[ ...]]
 
 test2.txt内容
 
-![image-20220531160540745](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531160540745.png)
+![image-20220531160540745](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531160540745.png)
 
-![image-20220531160618596](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531160618596.png)
+![image-20220531160618596](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531160618596.png)
 
 ## 2.14 FINDSTR
 
@@ -787,9 +787,9 @@ MD [drive:]path
 
 例：
 
-![image-20220531161741999](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531161741999.png)
+![image-20220531161741999](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531161741999.png)
 
-![image-20220531161804044](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531161804044.png)
+![image-20220531161804044](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531161804044.png)
 
 ## 2.19 PUSHD
 
@@ -823,7 +823,7 @@ RD [/S] [/Q] [drive:]path
 
 例：
 
-![image-20220531162555762](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531162555762.png)
+![image-20220531162555762](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531162555762.png)
 
 ## 2.21 RECOVER
 
@@ -848,7 +848,7 @@ REN [drive:][path]filename1 filename2.
 
 例：
 
-![image-20220531162946177](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531162946177.png)
+![image-20220531162946177](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531162946177.png)
 
 ## 2.23 REPLACE
 
@@ -884,7 +884,7 @@ TIME [/T | time]
 
 例：
 
-![image-20220531163507555](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531163507555.png)
+![image-20220531163507555](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531163507555.png)
 
 ## 2.25 TITLE/DATE
 
@@ -898,7 +898,7 @@ TITLE [string]
 
 例：
 
-![image-20220531164015649](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531164015649.png)
+![image-20220531164015649](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531164015649.png)
 
 ```
 显示或设置日期。
@@ -943,7 +943,7 @@ VER
 
 例：
 
-![image-20220531164535668](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531164535668.png)
+![image-20220531164535668](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531164535668.png)
 
 ## 2.29 VERIFY
 
@@ -957,7 +957,7 @@ VERIFY [ON | OFF]
 
 例：
 
-![image-20220531164654044](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531164654044.png)
+![image-20220531164654044](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531164654044.png)
 
 ## 2.30 VOL
 
@@ -969,7 +969,7 @@ VOL [drive:]
 
 例：
 
-![image-20220531164840101](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220531164840101.png)
+![image-20220531164840101](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220531164840101.png)
 
 ## 2.31 XCOPY
 
@@ -1614,9 +1614,9 @@ FOR /F "eol=; tokens=2,3* delims=, " %i in (myfile.txt) do @echo %i %j %k
 
 例：
 
-![image-20220601150514574](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220601150514574.png)
+![image-20220601150514574](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220601150514574.png)
 
-![image-20220601150531224](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220601150531224.png)
+![image-20220601150531224](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220601150531224.png)
 
 ## 3.9 条件循环
 
@@ -1664,7 +1664,7 @@ echo └────────────────────────
 pause
 ```
 
-![image-20220601163159122](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20220601163159122.png)
+![image-20220601163159122](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20220601163159122.png)
 
 # 4.其它命令
 
