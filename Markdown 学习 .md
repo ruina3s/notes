@@ -1,6 +1,19 @@
-```
-# Markdown 学习 
-```
+---
+title: "Markdown学习"
+date: 2025-01-01
+updated: 2025-01-01
+author: RUINA3S
+tags: [Markdown, 教程, 语法]
+category: [备忘录, 学习]
+description: "Markdown语法学习笔记"
+status: 已完成
+draft: false
+---
+
+# Markdown学习
+
+> Markdown是一种轻量级标记语言
+
 [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 我展示的是一级标题
@@ -19,6 +32,7 @@
 
 
 [toc]
+- [Markdown学习](#markdown学习)
 - [我展示的是一级标题](#我展示的是一级标题)
   - [我是二级标题](#我是二级标题)
 - [一级标题](#一级标题)

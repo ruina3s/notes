@@ -1,3 +1,17 @@
+---
+title: "零基础入门Stable Diffusion笔记"
+date: 2025-08-20
+updated: 2025-08-20
+author: RUINA3S
+tags: [Stable Diffusion, AI绘画, 教程]
+category: [备忘录, 学习]
+description: "Stable Diffusion入门学习笔记"
+status: 记录中
+draft: true
+---
+
+# 零基础入门Stable Diffusion笔记
+
 配合于[此教程](https://www.bilibili.com/video/BV1As4y127HW)
 
 ## 1.Prompts（提示词）

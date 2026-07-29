@@ -1,8 +1,16 @@
 ---
-title: latex自用公式记录格式
-date: 2023.8.30 15:00:00
-tab: 
+title: "LaTeX公式设置"
+date: 2023-08-30
+updated: 2023-08-30
+author: RUINA3S
+tags: [LaTeX, 公式, 颜色, 教程]
+category: [备忘录, 技术]
+description: "LaTeX公式颜色及格式自用记录"
+status: 记录中
+draft: true
 ---
+
+# LaTeX公式设置
 
 $$
 \color{black}{黑色}\color{red}{红色}\color{green}{绿色}\color{blue}{蓝色}

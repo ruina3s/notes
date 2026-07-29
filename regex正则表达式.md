@@ -1,11 +1,16 @@
 ---
-title: regex正则表达式
-date: 2023-1-23 17:43:00
-tab:
+title: "正则表达式(REGEX)"
+date: 2023-01-23
+updated: 2023-01-23
+author: RUINA3S
+tags: [正则表达式, REGEX, 教程]
+category: [备忘录, 技术]
+description: "正则表达式语法学习笔记"
+status: 已完成
+draft: false
 ---
 
-正则表达式(REGEX)
-==
+# 正则表达式(REGEX)
 
 正则表达式使用单个字符串来描述、匹配一系列匹配某个句法规则的字符串
 

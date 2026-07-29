@@ -1,3 +1,17 @@
+---
+title: "Windows服务关闭"
+date: 2026-02-11
+updated: 2026-02-11
+author: RUINA3S
+tags: [Windows, 服务优化, 系统]
+category: [备忘录, 技术]
+description: "Windows可关闭的服务项记录"
+status: 记录中
+draft: true
+---
+
+# Windows服务关闭
+
 ## 1.
 
 ![image-20260211153745415](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20260211153745415.png)

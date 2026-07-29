@@ -1,3 +1,17 @@
+---
+title: "Blender学习笔记"
+date: 2026-03-18
+updated: 2026-03-18
+author: RUINA3S
+tags: [Blender, 3D建模, 学习]
+category: [备忘录, 学习]
+description: "Blender 3D建模软件学习笔记"
+status: 记录中
+draft: true
+---
+
+# Blender学习笔记
+
 课程参考自B站视频：
 
 课程目录：

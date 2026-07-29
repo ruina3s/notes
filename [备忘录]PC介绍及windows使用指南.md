@@ -1,10 +1,16 @@
+﻿---
+title: "[备忘录]PC介绍及windows使用指南"
+date: 2022-08-06
+updated: 2022-08-06
+author: RUINA3S
+tags: [PC, Windows, 使用指南, 备忘录]
+category: [备忘录, 技术]
+description: "PC硬件与Windows软件使用相关问题记录"
+status: 已完成
+draft: false
 ---
-tiele: [备忘录]PC介绍及windows使用指南
-date: 2022-8-6 18:49:00
-tab:
----
-PC介绍及windows使用指南
-==
+
+# [备忘录]PC介绍及windows使用指南
 
 [toc]
 
@@ -241,9 +247,9 @@ ffprobe -show_format xxxx.xxx
 
 **GitZip for github**：使用后文件或目录前出现勾选框，勾选后在网页上选择该图标下载
 
-![image-20221010164542288](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20221010164542288.png)
+![image-20221010164542288](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221010164542288.png)
 
-![image-20221010164643736](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20221010164643736.png)
+![image-20221010164643736](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221010164643736.png)
 
 注：打开库若无勾选框可刷新页面再看是否出现
 
@@ -269,7 +275,7 @@ ffprobe -show_format xxxx.xxx
 
 中文包
 
-![image-20221024094112623](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20221024094112623.png)
+![image-20221024094112623](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221024094112623.png)
 
 
 
@@ -344,13 +350,13 @@ bcdedit /set hypervisorlaunchtype Auto
 
 ### 22.edge游览器插件dark_reader设置
 
-![dark_reader设置](https://raw.githubusercontent.com/ruinasS/imgs/main/dark_reader%E8%AE%BE%E7%BD%AE.png)
+![dark_reader设置](https://raw.githubusercontent.com/ruina3s/imgs/main/dark_reader%E8%AE%BE%E7%BD%AE.png)
 
 
 
 ### 23.技能树
 
-![cs skill tree](https://raw.githubusercontent.com/ruinasS/imgs/main/cs%20skill%20tree.png)
+![cs skill tree](https://raw.githubusercontent.com/ruina3s/imgs/main/cs%20skill%20tree.png)
 
 
 

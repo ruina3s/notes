@@ -1,3 +1,17 @@
+---
+title: "Windows激活"
+date: 2025-01-01
+updated: 2025-01-01
+author: RUINA3S
+tags: [Windows, 激活, MAS]
+category: [备忘录, 技术]
+description: "Windows系统激活方法记录"
+status: 已完成
+draft: false
+---
+
+# Windows激活
+
 用MAS和用激活码激活达成的效果一样的 
 
 irm https://get.activated.win | iex 

@@ -1,11 +1,16 @@
----
-title: Javascript再学习
-time: 2023-1-24 15:32:00
-tab: 
+﻿---
+title: "Javascript再学习笔记"
+date: 2023-01-24
+updated: 2023-01-24
+author: RUINA3S
+tags: [JavaScript, 教程, 编程]
+category: [备忘录, 技术]
+description: "JavaScript编程语言再学习笔记"
+status: 已完成
+draft: false
 ---
 
-Javascript再学习笔记
-==
+# Javascript再学习笔记
 
 JS作为一种编程语言，可用来与游览器中的网页元素进行交互（比如点击按钮后的事件），看起来像java但并不是（名字像也叫像的话），可实时编译。Node.js是运行在服务器中的js。网页中使用的js要在html文件中引用才能使用——使用script标签引用。而服务器中使用js则需要安装Node.js。
 
@@ -21,13 +26,11 @@ JS作为一种编程语言，可用来与游览器中的网页元素进行交互
 
 安装Node.js，建立一个工程文件夹新建一文件**<u>helloworld.js</u>**
 
-![image-20230124161050738](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20230124161050738.png)
+![image-20230124161050738](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230124161050738.png)
 
 在命令行中，进入对应的文件夹位置，输入命令<kbd>node helloworld.js</kbd>
 
-![image-20230124161313527](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20230124161313527.png)
-
-
+![image-20230124161313527](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20230124161313527.png)
 
 # 语法
 

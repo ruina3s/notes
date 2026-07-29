@@ -1,7 +1,13 @@
 ---
-title: ns相关
-date: 
-tab:
+title: "NS相关"
+date: 2024-01-22
+updated: 2024-01-22
+author: RUINA3S
+tags: [NS, DNS, 教程]
+category: [备忘录, 技术]
+description: "NS主机相关DNS设置记录"
+status: 记录中
+draft: true
 ---
 
 ns NDS

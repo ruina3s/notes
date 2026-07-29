@@ -1,5 +1,16 @@
-PS3模拟器-rpcs3使用备忘录
-==
+---
+title: "PS3模拟器-rpcs3使用备忘录"
+date: 2025-07-05
+updated: 2025-07-05
+author: RUINA3S
+tags: [PS3, 模拟器, RPCS3, 教程]
+category: [备忘录, 技术]
+description: "PS3模拟器RPCS3的下载安装与使用记录"
+status: 记录中
+draft: true
+---
+
+# PS3模拟器-rpcs3使用备忘录
 
 
 

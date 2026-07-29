@@ -1,11 +1,16 @@
----
-title: GitHub自定义徽章
-time: 2022-10-31 21:51:00
-tab: 
+﻿---
+title: "GitHub自定义徽章"
+date: 2022-10-31
+updated: 2022-10-31
+author: RUINA3S
+tags: [GitHub, 徽章, Shields, 教程]
+category: [备忘录, 技术]
+description: "使用Shields.io在Markdown中添加自定义徽章的方法"
+status: 已完成
+draft: false
 ---
 
-GitHub自定义徽章
-==
+# GitHub自定义徽章
 
 在markdown文本中添加自定义徽章可更直观说明项目的相关信息，这里主要使用**Shields**来说明
 
@@ -36,7 +41,7 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 项目网站对颜色有以下的示例：
 
-![image-20221101135006707](https://raw.githubusercontent.com/ruinasS/imgs/main/image-20221101135006707.png)
+![image-20221101135006707](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221101135006707.png)
 
 可用表示颜色的词也支持rgb形式
 

@@ -1,3 +1,17 @@
+---
+title: "中国政治机构关系图"
+date: 2025-01-01
+updated: 2025-01-01
+author: RUINA3S
+tags: [Mermaid, 政治, 图表]
+category: [备忘录, 学习]
+description: "中国政治机构关系Mermaid流程图"
+status: 记录中
+draft: true
+---
+
+# 中国政治机构关系图
+
 ```Mermaid
 graph TD
     A[中国共产党<br>总书记] --> B[全国人民代表大会<br>委员长]
