@@ -1,22 +1,22 @@
 ---
-title: "Windows激�?
+title: "Windows激活"
 date: 2025-01-01
 updated: 2025-01-01
 author: RUINA3S
-tags: [Windows, 激�? MAS]
-category: [备忘�? 技术]
-description: "Windows系统激活方法记�?
-status: 已完�?
+tags: [Windows, 激活, MAS]
+category: [备忘录, 技术]
+description: "Windows系统激活方法记录"
+status: 已完成
 draft: false
 ---
 
-# Windows激�?
+# Windows激活
 
 用MAS和用激活码激活达成的效果一样的 
 
 irm https://get.activated.win | iex 
 
-只要打开power shell输入上段命令，按回车就会自动下载脚本，脚本运行起来后�?再按回车，HWID就激活成功了，只要不更换主板，即便重装系统联网后也会自动激活，脚本本身是在github开源的安全性不用担�?
+只要打开power shell输入上段命令，按回车就会自动下载脚本，脚本运行起来后按1再按回车，HWID就激活成功了，只要不更换主板，即便重装系统联网后也会自动激活，脚本本身是在github开源的安全性不用担心
 
 
 

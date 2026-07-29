@@ -1,51 +1,51 @@
----
-title: "GitHub×Ô¶¨Òå»ÕÕÂ"
+ï»¿---
+title: "GitHubè‡ªå®šä¹‰å¾½ç« "
 date: 2022-10-31
 updated: 2022-10-31
 author: RUINA3S
-tags: [GitHub, »ÕÕÂ, Shields, ½Ì³Ì]
-category: [±¸ÍüÂ¼, ¼¼Êõ]
-description: "Ê¹ÓÃShields.ioÔÚMarkdownÖĞÌí¼Ó×Ô¶¨Òå»ÕÕÂµÄ·½·¨"
-status: ÒÑÍê³É
+tags: [GitHub, å¾½ç« , Shields, æ•™ç¨‹]
+category: [å¤‡å¿˜å½•, æŠ€æœ¯]
+description: "ä½¿ç”¨Shields.ioåœ¨Markdownä¸­æ·»åŠ è‡ªå®šä¹‰å¾½ç« çš„æ–¹æ³•"
+status: å·²å®Œæˆ
 draft: false
 ---
 
-# GitHub×Ô¶¨Òå»ÕÕÂ
+# GitHubè‡ªå®šä¹‰å¾½ç« 
 
-ÔÚmarkdownÎÄ±¾ÖĞÌí¼Ó×Ô¶¨Òå»ÕÕÂ¿É¸üÖ±¹ÛËµÃ÷ÏîÄ¿µÄÏà¹ØĞÅÏ¢£¬ÕâÀïÖ÷ÒªÊ¹ÓÃ**Shields**À´ËµÃ÷
+åœ¨markdownæ–‡æœ¬ä¸­æ·»åŠ è‡ªå®šä¹‰å¾½ç« å¯æ›´ç›´è§‚è¯´æ˜é¡¹ç›®çš„ç›¸å…³ä¿¡æ¯ï¼Œè¿™é‡Œä¸»è¦ä½¿ç”¨**Shields**æ¥è¯´æ˜
 
-[Shields](https://shields.io/)ÊÇ°ïÖúÔÚmarkdownÎÄ¼şÖĞÉú³É×Ô¶¨Òå»ÕÕÂµÄÏîÄ¿£¬¿ÉÍ¨¹ı¸ÃÏîÄ¿Ìá¹©µÄÁ´½ÓÓï·¨À´ÖÆ¶¨ÏëÒªµÄ»ÕÕÂ
+[Shields](https://shields.io/)æ˜¯å¸®åŠ©åœ¨markdownæ–‡ä»¶ä¸­ç”Ÿæˆè‡ªå®šä¹‰å¾½ç« çš„é¡¹ç›®ï¼Œå¯é€šè¿‡è¯¥é¡¹ç›®æä¾›çš„é“¾æ¥è¯­æ³•æ¥åˆ¶å®šæƒ³è¦çš„å¾½ç« 
 
-±ÈÈç£º
+æ¯”å¦‚ï¼š
 
 ![shields: hello](https://img.shields.io/badge/shields-hello-ff69b4)
 ```markdown
 ![shields: hello](https://img.shields.io/badge/shields-hello-ff69b4)
 ```
 
-ÒÔÏÂËµÃ÷Ò»Ğ©¼òµ¥µÄ»ÕÕÂµÄ¶¨ÖÆ
+ä»¥ä¸‹è¯´æ˜ä¸€äº›ç®€å•çš„å¾½ç« çš„å®šåˆ¶
 
 
 
-# 1.¾²Ì¬»ÕÕÂ
+# 1.é™æ€å¾½ç« 
 
-Á½ÖÖÓï·¨£º
+ä¸¤ç§è¯­æ³•ï¼š
 
 ```markdown
 https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
-<LABEL>Ö¸¶¨±êÌâ
-<MESSAGE>Ö¸¶¨ĞÅÏ¢
-<COLOR>Ö¸¶¨ÑÕÉ«
+<LABEL>æŒ‡å®šæ ‡é¢˜
+<MESSAGE>æŒ‡å®šä¿¡æ¯
+<COLOR>æŒ‡å®šé¢œè‰²
 ```
 
-ÏîÄ¿ÍøÕ¾¶ÔÑÕÉ«ÓĞÒÔÏÂµÄÊ¾Àı£º
+é¡¹ç›®ç½‘ç«™å¯¹é¢œè‰²æœ‰ä»¥ä¸‹çš„ç¤ºä¾‹ï¼š
 
-![image-20221101135006707](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20221101135006707.png)
+![image-20221101135006707](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20221101135006707.png)
 
-¿ÉÓÃ±íÊ¾ÑÕÉ«µÄ´ÊÒ²Ö§³ÖrgbĞÎÊ½
+å¯ç”¨è¡¨ç¤ºé¢œè‰²çš„è¯ä¹Ÿæ”¯æŒrgbå½¢å¼
 
-Èç£º
+å¦‚ï¼š
 
 ![eg1](https://img.shields.io/badge/eg1-badge-red)
 ![eg2](https://img.shields.io/static/v1?label=eg2&message=static&color=blue)
@@ -57,9 +57,9 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 
 
-# 2.ÑùÊ½
+# 2.æ ·å¼
 
-ÔÚÄãµÄ»ÕÕÂ´úÂëºó¼ÓÉÏ`?style=<STYLE>`¿É¶¨ÒåÑùÊ½£¬¹²ÓĞÎåÖÖÑùÊ½
+åœ¨ä½ çš„å¾½ç« ä»£ç ååŠ ä¸Š`?style=<STYLE>`å¯å®šä¹‰æ ·å¼ï¼Œå…±æœ‰äº”ç§æ ·å¼
 
 ![eg3](https://img.shields.io/badge/style-plastic-important?style=plastic)
 ![eg4](https://img.shields.io/badge/style-flat-important?style=flat)
@@ -77,22 +77,22 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 
 
-# 3.¶¯Ì¬»ÕÕÂ
+# 3.åŠ¨æ€å¾½ç« 
 
-ĞèÒªµ÷¶¯ÆäËüÊı¾İ£¬Ëæ×ÅÄãµÄÏîÄ¿»òÊı¾İµÄ±ä»¯×Ô¶¯¸ü¸ÄµÄ»ÕÕÂ£¬ShieldÖ÷ÒªÍ¨¹ıjson¡¢xml¡¢yamlÀ´µ÷ÓÃÊı¾İ£¬¾ßÌåÓÃ·¨²Î¿¼ÍøÕ¾Ê¾Àı
+éœ€è¦è°ƒåŠ¨å…¶å®ƒæ•°æ®ï¼Œéšç€ä½ çš„é¡¹ç›®æˆ–æ•°æ®çš„å˜åŒ–è‡ªåŠ¨æ›´æ”¹çš„å¾½ç« ï¼ŒShieldä¸»è¦é€šè¿‡jsonã€xmlã€yamlæ¥è°ƒç”¨æ•°æ®ï¼Œå…·ä½“ç”¨æ³•å‚è€ƒç½‘ç«™ç¤ºä¾‹
 
 
 
-# 4.ÆäËü
+# 4.å…¶å®ƒ
 
-ÈôĞè¶Ô»ÕÕÂ½øĞĞ¸ü½øÒ»²½µÄ¶¨ÖÆ£¬Èçµ÷Õû»ÕÕÂ×ó²àµÄÑÕÉ«¡¢Ìí¼ÓÍ¼±êµÈµÈ£¬¿É²Î¿¼ÍøÕ¾µÄÓï·¨½éÉÜ£º
+è‹¥éœ€å¯¹å¾½ç« è¿›è¡Œæ›´è¿›ä¸€æ­¥çš„å®šåˆ¶ï¼Œå¦‚è°ƒæ•´å¾½ç« å·¦ä¾§çš„é¢œè‰²ã€æ·»åŠ å›¾æ ‡ç­‰ç­‰ï¼Œå¯å‚è€ƒç½‘ç«™çš„è¯­æ³•ä»‹ç»ï¼š
 
 [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
 
 
 
-³ı**Shields.io**Íâ£¬»¹ÓĞÆäËüµÄ×Ô¶¨Òå»ÕÕÂÍøÕ¾ÏîÄ¿£º
+é™¤**Shields.io**å¤–ï¼Œè¿˜æœ‰å…¶å®ƒçš„è‡ªå®šä¹‰å¾½ç« ç½‘ç«™é¡¹ç›®ï¼š
 
-[Badgen - Fast badge generating service](https://badgen.net/)£ºÓëShieldsÀàËÆµÄ£¬¸öÈË¸Ğ¾õÓï·¨¸ü¡°¼òµ¥¡±£¬¶¯Ì¬»ÕÕÂµÄ²Î¿¼½Ï¶à
+[Badgen - Fast badge generating service](https://badgen.net/)ï¼šä¸Shieldsç±»ä¼¼çš„ï¼Œä¸ªäººæ„Ÿè§‰è¯­æ³•æ›´â€œç®€å•â€ï¼ŒåŠ¨æ€å¾½ç« çš„å‚è€ƒè¾ƒå¤š
 
-[For the Badge](https://forthebadge.com/)£ºÓëÁíÁ½¸ö²»Í¬£¬É«²Ê¶¨ÖÆ¸ü¼òµ¥£¬µ«ºÃÏñÃ»ÓĞ¶¯Ì¬»ÕÕÂ
+[For the Badge](https://forthebadge.com/)ï¼šä¸å¦ä¸¤ä¸ªä¸åŒï¼Œè‰²å½©å®šåˆ¶æ›´ç®€å•ï¼Œä½†å¥½åƒæ²¡æœ‰åŠ¨æ€å¾½ç« 

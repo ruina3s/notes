@@ -1,176 +1,176 @@
----
-title: "VSCodeÊ¹ÓÃÖ¸±±"
+ï»¿---
+title: "VSCodeä½¿ç”¨æŒ‡åŒ—"
 date: 2024-04-28
 updated: 2024-04-28
 author: RUINA3S
-tags: [VSCode, ½Ì³Ì, À©Õ¹, ÅäÖÃ]
-category: [±¸ÍüÂ¼, ¼¼Êõ]
-description: "Visual Studio CodeµÄÏÂÔØ°²×°¡¢ºº»¯¡¢À©Õ¹°²×°ÓëÃÀ»¯Ö¸ÄÏ"
-status: ÒÑÍê³É
+tags: [VSCode, æ•™ç¨‹, æ‰©å±•, é…ç½®]
+category: [å¤‡å¿˜å½•, æŠ€æœ¯]
+description: "Visual Studio Codeçš„ä¸‹è½½å®‰è£…ã€æ±‰åŒ–ã€æ‰©å±•å®‰è£…ä¸ç¾åŒ–æŒ‡å—"
+status: å·²å®Œæˆ
 draft: false
 ---
 
-# VSCodeÊ¹ÓÃÖ¸±±
+# VSCodeä½¿ç”¨æŒ‡åŒ—
 
-´ËËµÃ÷²»»á½²½â¹ı¶àµÄ¹¦ÄÜ£¬Ö÷ÒªĞ´Ã÷ÏÂÔØ¡¢°²×°¡¢ºº»¯¡¢À©Õ¹°²×°¡¢ÃÈ»¯µÄÄÚÈİ£¬Ò²»áÍÆ¼ö¸öÈË°®ÓÃµÄÀ©Õ¹£¬ÆäËûÏ¸½ÚÉèÖÃ²»×öËµÃ÷¡£
+æ­¤è¯´æ˜ä¸ä¼šè®²è§£è¿‡å¤šçš„åŠŸèƒ½ï¼Œä¸»è¦å†™æ˜ä¸‹è½½ã€å®‰è£…ã€æ±‰åŒ–ã€æ‰©å±•å®‰è£…ã€èŒåŒ–çš„å†…å®¹ï¼Œä¹Ÿä¼šæ¨èä¸ªäººçˆ±ç”¨çš„æ‰©å±•ï¼Œå…¶ä»–ç»†èŠ‚è®¾ç½®ä¸åšè¯´æ˜ã€‚
 
 [toc]
 
-## 1.¼òÒª½éÉÜÓëÏÂÔØ°²×°
+## 1.ç®€è¦ä»‹ç»ä¸ä¸‹è½½å®‰è£…
 
-> Î¢ÈíÔÚ2015Äê4ÔÂ30ÈÕBuild ¿ª·¢Õß´ó»áÉÏÕıÊ½Ğû²¼ÁË Visual Studio Code ÏîÄ¿£ºÒ»¸öÔËĞĞÓÚ Mac OS X¡¢WindowsºÍ Linux Ö®ÉÏµÄ£¬Õë¶ÔÓÚ±àĞ´ÏÖ´ú Web ºÍÔÆÓ¦ÓÃµÄ¿çÆ½Ì¨Ô´´úÂë±à¼­Æ÷¡£
+> å¾®è½¯åœ¨2015å¹´4æœˆ30æ—¥Build å¼€å‘è€…å¤§ä¼šä¸Šæ­£å¼å®£å¸ƒäº† Visual Studio Code é¡¹ç›®ï¼šä¸€ä¸ªè¿è¡Œäº Mac OS Xã€Windowså’Œ Linux ä¹‹ä¸Šçš„ï¼Œé’ˆå¯¹äºç¼–å†™ç°ä»£ Web å’Œäº‘åº”ç”¨çš„è·¨å¹³å°æºä»£ç ç¼–è¾‘å™¨ã€‚
 
-¸öÈËÈÏÎªVSCodeÊÇÄ¿Ç°×îºÃµÄIDE
+ä¸ªäººè®¤ä¸ºVSCodeæ˜¯ç›®å‰æœ€å¥½çš„IDE
 
-ÏÂÔØÍøÕ¾£º[Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+ä¸‹è½½ç½‘ç«™ï¼š[Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 
-![image-20240428115859981](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428115859981.png)
+![image-20240428115859981](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428115859981.png)
 
-Èí¼şµÄ°²×°Ã»ÓĞÊ²Ã´ÌØ±ğ²»Í¬µÄ£¬²»¹ı°²×°ÖĞÓĞÒ»¸öÑ¡ÏîÍÆ¼ö¹´Ñ¡
+è½¯ä»¶çš„å®‰è£…æ²¡æœ‰ä»€ä¹ˆç‰¹åˆ«ä¸åŒçš„ï¼Œä¸è¿‡å®‰è£…ä¸­æœ‰ä¸€ä¸ªé€‰é¡¹æ¨èå‹¾é€‰
 
-![image-20240428120150176](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428120150176.png)
+![image-20240428120150176](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428120150176.png)
 
-## 2.¼òµ¥¹¦ÄÜËµÃ÷
+## 2.ç®€å•åŠŸèƒ½è¯´æ˜
 
-´ò¿ªºóÑ¡ÔñÓÒ²àµÄÍ¼±êµÄÏîÑ¡Ôñ¹¤×÷ÎÄ¼ş¼Ğ
+æ‰“å¼€åé€‰æ‹©å³ä¾§çš„å›¾æ ‡çš„é¡¹é€‰æ‹©å·¥ä½œæ–‡ä»¶å¤¹
 
-![image-20240428120258539](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428120258539.png)
+![image-20240428120258539](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428120258539.png)
 
-È»ºó¸ù¾İĞèÒª°²×°À©Õ¹£¬ÕâÀïÖ÷Òª°²×°µÄÊÇÖĞÎÄ°ü
+ç„¶åæ ¹æ®éœ€è¦å®‰è£…æ‰©å±•ï¼Œè¿™é‡Œä¸»è¦å®‰è£…çš„æ˜¯ä¸­æ–‡åŒ…
 
-![image-20240428120959320](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428120959320.png)
+![image-20240428120959320](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428120959320.png)
 
-°´¿ì½İ¼ü<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>p</kbd>¿ÉÒÔÆô¶¯ÃüÁîÃæ°å£¬Ò²µã»÷ÔÚ×óÏÂµÄ³İÂÖÍ¼±ê
+æŒ‰å¿«æ·é”®<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>p</kbd>å¯ä»¥å¯åŠ¨å‘½ä»¤é¢æ¿ï¼Œä¹Ÿç‚¹å‡»åœ¨å·¦ä¸‹çš„é½¿è½®å›¾æ ‡
 
-![image-20240428114927906](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428114927906.png)
+![image-20240428114927906](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428114927906.png)
 
-![image-20240428115002923](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428115002923.png)
+![image-20240428115002923](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428115002923.png)
 
-ÆäËû¹¦ÄÜÈç**emmet**¿ÉÒÔÇë×ÔĞĞÑ§Ï°
+å…¶ä»–åŠŸèƒ½å¦‚**emmet**å¯ä»¥è¯·è‡ªè¡Œå­¦ä¹ 
 
 
 
-## 3.¡°ÃÈ»¯¡±
+## 3.â€œèŒåŒ–â€
 
-> ºÃ¿´µÄ¹¤¾ßÒ²ĞíÄÜÈÃ¹¤×÷ÊÂ°ë¹¦±¶
+> å¥½çœ‹çš„å·¥å…·ä¹Ÿè®¸èƒ½è®©å·¥ä½œäº‹åŠåŠŸå€
 
-**3.1**.Ê×ÏÈÊÇ¸Ä±ävscodeµÄÎÄ¼ş¼ĞºÍÎÄ¼şµÄÍ¼±ê
+**3.1**.é¦–å…ˆæ˜¯æ”¹å˜vscodeçš„æ–‡ä»¶å¤¹å’Œæ–‡ä»¶çš„å›¾æ ‡
 
-![image-20240428135613477](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428135613477.png)
+![image-20240428135613477](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428135613477.png)
 
 
 
-**3.2**.ÎŞÎÄ¼ş´ò¿ªÇé¿öÏÂµÄÍ¼Æ¬×Ô¶¨Òå
+**3.2**.æ— æ–‡ä»¶æ‰“å¼€æƒ…å†µä¸‹çš„å›¾ç‰‡è‡ªå®šä¹‰
 
-![image-20240428140156455](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428140156455.png)
+![image-20240428140156455](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428140156455.png)
 
-ÉèÖÃÎÄ¼şÖĞÔö¼Ó¸Ä¼üÖµ¶Ô£º
+è®¾ç½®æ–‡ä»¶ä¸­å¢åŠ æ”¹é”®å€¼å¯¹ï¼š
 
-![image-20240428140504105](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428140504105.png)
+![image-20240428140504105](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428140504105.png)
 
-cssÎÄ¼şĞèÒª×Ô¼º±àĞ´£¬ÀïÃæÉèÖÃÍøÂçÍ¼Æ¬Á´½Ó»ò±¾µØÎÄ¼şÂ·¾¶
+cssæ–‡ä»¶éœ€è¦è‡ªå·±ç¼–å†™ï¼Œé‡Œé¢è®¾ç½®ç½‘ç»œå›¾ç‰‡é“¾æ¥æˆ–æœ¬åœ°æ–‡ä»¶è·¯å¾„
 
-![image-20240428140624376](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428140624376.png)
+![image-20240428140624376](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428140624376.png)
 
-±¸×¢£ºGitHubµÄrawÁ´½ÓÎª`https://raw.githubusercontent.com/ÓÃ»§Ãû/²Ö¿âÃû/·ÖÖ§Ãû/ÎÄ¼şÂ·¾¶`
+å¤‡æ³¨ï¼šGitHubçš„rawé“¾æ¥ä¸º`https://raw.githubusercontent.com/ç”¨æˆ·å/ä»“åº“å/åˆ†æ”¯å/æ–‡ä»¶è·¯å¾„`
 
-Ê¹ÓÃºóÍ¨¹ı<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>p</kbd>µ÷ÓÃ`Reload Custom CSS and JS`ÃüÁîºóÖØÆô£¬Ğ§¹ûÈçÏÂ£º
+ä½¿ç”¨åé€šè¿‡<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>p</kbd>è°ƒç”¨`Reload Custom CSS and JS`å‘½ä»¤åé‡å¯ï¼Œæ•ˆæœå¦‚ä¸‹ï¼š
 
-![image-20240428140926392](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428140926392.png)
+![image-20240428140926392](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428140926392.png)
 
 
 
-**3.3**.±³¾°Í¼ÉèÖÃ
+**3.3**.èƒŒæ™¯å›¾è®¾ç½®
 
-![image-20240428141016723](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428141016723.png)
+![image-20240428141016723](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428141016723.png)
 
-À©Õ¹µÄËµÃ÷ĞÅÏ¢Ò³ÀïÓĞBÕ¾ÊÓÆµ×öÎªÊ¹ÓÃ½éÉÜ£º[Ê¹ÓÃ½éÉÜÊÓÆµ](https://www.bilibili.com/video/BV1wM4y1K7SZ?p=2)£¬×îºóµÄĞ§¹ûÈçÏÂ£º
+æ‰©å±•çš„è¯´æ˜ä¿¡æ¯é¡µé‡Œæœ‰Bç«™è§†é¢‘åšä¸ºä½¿ç”¨ä»‹ç»ï¼š[ä½¿ç”¨ä»‹ç»è§†é¢‘](https://www.bilibili.com/video/BV1wM4y1K7SZ?p=2)ï¼Œæœ€åçš„æ•ˆæœå¦‚ä¸‹ï¼š
 
-![image-20240428141422068](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428141422068.png)
+![image-20240428141422068](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428141422068.png)
 
-ÈçĞèÕû¸ö´°¿Ú1ÕÅÍ¼£¬¿ÉÓÃ£º![image-20240429094809095](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240429094809095.png)
+å¦‚éœ€æ•´ä¸ªçª—å£1å¼ å›¾ï¼Œå¯ç”¨ï¼š![image-20240429094809095](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240429094809095.png)
 
-![image-20240429094835856](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240429094838769.png)
+![image-20240429094835856](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240429094838769.png)
 
 
 
 
 
-## 4.À©Õ¹ÍÆ¼ö
+## 4.æ‰©å±•æ¨è
 
-**4.1**.´úÂëÏà¹ØµÄ£º
+**4.1**.ä»£ç ç›¸å…³çš„ï¼š
 
-![image-20240428141948139](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428141948139.png)´úÂëÊéÇ©±ê¼Ç
+![image-20240428141948139](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428141948139.png)ä»£ç ä¹¦ç­¾æ ‡è®°
 
-![image-20240428142141901](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428142141901.png)ÖĞÎÄÂÒÊı¼ÙÎÄ£¬¿ì½İ¼üjw£¬Ó¢ÎÄµÄvscode×Ô´øÓĞ
+![image-20240428142141901](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428142141901.png)ä¸­æ–‡ä¹±æ•°å‡æ–‡ï¼Œå¿«æ·é”®jwï¼Œè‹±æ–‡çš„vscodeè‡ªå¸¦æœ‰
 
-![image-20240428142209375](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428142209375.png)´úÂëÔËĞĞ£¬¿ÉÔÚ´úÂëÎÄ¼şÓÒÉÏ½ÇÔö¼ÓÔËĞĞ·ûºÏ
+![image-20240428142209375](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428142209375.png)ä»£ç è¿è¡Œï¼Œå¯åœ¨ä»£ç æ–‡ä»¶å³ä¸Šè§’å¢åŠ è¿è¡Œç¬¦åˆ
 
-![image-20240428142308925](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428142308925.png)´úÂë´ÊÓïĞüÍ£·­Òë
+![image-20240428142308925](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428142308925.png)ä»£ç è¯è¯­æ‚¬åœç¿»è¯‘
 
-![image-20240428143415002](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428143415002.png)Éú³É×Ô¶¨Òå×¢ÊÍ
+![image-20240428143415002](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428143415002.png)ç”Ÿæˆè‡ªå®šä¹‰æ³¨é‡Š
 
-![image-20240428143935118](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428143935118.png)´úÂë¸ñÊ½Ô¼Êø
+![image-20240428143935118](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428143935118.png)ä»£ç æ ¼å¼çº¦æŸ
 
-![image-20241117143937825](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20241117143937825.png)×Ô¶¨Òå×¢ÊÍ
+![image-20241117143937825](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20241117143937825.png)è‡ªå®šä¹‰æ³¨é‡Š
 
 
 
-**4.2**.Ê¹ÓÃ²»Í¬µÄ±à³ÌÓïÑÔ¿ÉÄÜĞèÒª×ÔĞĞÏÂÔØÏà¹ØµÄÀ©Õ¹£¬Èç£º
+**4.2**.ä½¿ç”¨ä¸åŒçš„ç¼–ç¨‹è¯­è¨€å¯èƒ½éœ€è¦è‡ªè¡Œä¸‹è½½ç›¸å…³çš„æ‰©å±•ï¼Œå¦‚ï¼š
 
-![image-20240428143610391](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428143610391.png)
+![image-20240428143610391](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428143610391.png)
 
-![image-20240428143630293](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428143630293.png)
+![image-20240428143630293](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428143630293.png)
 
 
 
-**4.3**.aiÀà¹¤¾ß£º
+**4.3**.aiç±»å·¥å…·ï¼š
 
-![image-20240428143720762](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428143720762.png)ÑÇÂíÑ·µÄai¹¤¾ß
+![image-20240428143720762](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428143720762.png)äºšé©¬é€Šçš„aiå·¥å…·
 
-![image-20240428143802834](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428143802834.png)Í¨ÒåÁéÂë£¬¹úÄÚµÄai¹¤¾ß
+![image-20240428143802834](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428143802834.png)é€šä¹‰çµç ï¼Œå›½å†…çš„aiå·¥å…·
 
-![image-20240630195814862](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240630195814862.png)°Ù¶ÈµÄai¹¤¾ß
+![image-20240630195814862](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240630195814862.png)ç™¾åº¦çš„aiå·¥å…·
 
-**4.4**.ÆäËû¹¤¾ß£º
+**4.4**.å…¶ä»–å·¥å…·ï¼š
 
-![image-20240428144131808](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428144131808.png)Á÷³ÌÍ¼¡¢Ë¼Î¬µ¼Í¼
+![image-20240428144131808](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428144131808.png)æµç¨‹å›¾ã€æ€ç»´å¯¼å›¾
 
-![image-20240428144330570](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428144330570.png)epubÎÄ¼şÔÄ¶Á
+![image-20240428144330570](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428144330570.png)epubæ–‡ä»¶é˜…è¯»
 
-![image-20240428144403770](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428144403770.png)latex¹«Ê½Ö§³Ö
+![image-20240428144403770](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428144403770.png)latexå…¬å¼æ”¯æŒ
 
-![image-20240428144452573](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428144452573.png)markdownÎÄ¼şÏà¹Ø
+![image-20240428144452573](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428144452573.png)markdownæ–‡ä»¶ç›¸å…³
 
-![image-20240428144532829](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240428144532829.png)sqliteÊı¾İ¿â
+![image-20240428144532829](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240428144532829.png)sqliteæ•°æ®åº“
 
-ÆäËûÒÔºóÓĞ»ú»á²¹³ä
+å…¶ä»–ä»¥åæœ‰æœºä¼šè¡¥å……
 
 
 
-## 5.¹¦ÄÜ
+## 5.åŠŸèƒ½
 
-### emmetÓï·¨Ö§³Ö
+### emmetè¯­æ³•æ”¯æŒ
 
-> Ò»¸öWeb¿ª·¢¹¤¾ß£¬ÓÃÓÚ¼Ó¿ìHTMLºÍCSS´úÂëµÄ±àĞ´ËÙ¶È¡£
-> Ê¹ÓÃ Emmet ÄÜ¹»Í¨¹ı¼ò¶ÌµÄ±í´ïÊ½¾Í¿ÉÒÔÉú³ÉHTML»òCSS´úÂëÆ¬¶Î¡£
+> ä¸€ä¸ªWebå¼€å‘å·¥å…·ï¼Œç”¨äºåŠ å¿«HTMLå’ŒCSSä»£ç çš„ç¼–å†™é€Ÿåº¦ã€‚
+> ä½¿ç”¨ Emmet èƒ½å¤Ÿé€šè¿‡ç®€çŸ­çš„è¡¨è¾¾å¼å°±å¯ä»¥ç”ŸæˆHTMLæˆ–CSSä»£ç ç‰‡æ®µã€‚
 
-ÎÄµµÍøÖ·£º[emmetÎÄµµ](https://docs.emmet.io/cheat-sheet/)
+æ–‡æ¡£ç½‘å€ï¼š[emmetæ–‡æ¡£](https://docs.emmet.io/cheat-sheet/)
 
 
 
-## -.ºÃÓÃÃüÁî¼¯
+## -.å¥½ç”¨å‘½ä»¤é›†
 
-Simple Browser:Show ÊäÈëÍøÖ·ºó±ã¿ÉÔÚvscodeÖĞ´ò¿ªÍøÒ³
+Simple Browser:Show è¾“å…¥ç½‘å€åä¾¿å¯åœ¨vscodeä¸­æ‰“å¼€ç½‘é¡µ
 
-toggle locked scrolling Ëø¶¨¹ö¶¯¹¦ÄÜ/Í¬²½¹ö¶¯
+toggle locked scrolling é”å®šæ»šåŠ¨åŠŸèƒ½/åŒæ­¥æ»šåŠ¨
 
 
 
 
 
-## ²¹³ä
+## è¡¥å……
 
-²Î¿¼×Ô£º
+å‚è€ƒè‡ªï¼š
 
-[³ÌĞòÔ³DDµÄ¸öÈË¿Õ¼ä-³ÌĞòÔ³DD¸öÈËÖ÷Ò³-ßÙÁ¨ßÙÁ¨ÊÓÆµ](https://space.bilibili.com/396803537/channel/collectiondetail?sid=2788232)
+[ç¨‹åºçŒ¿DDçš„ä¸ªäººç©ºé—´-ç¨‹åºçŒ¿DDä¸ªäººä¸»é¡µ-å“”å“©å“”å“©è§†é¢‘](https://space.bilibili.com/396803537/channel/collectiondetail?sid=2788232)

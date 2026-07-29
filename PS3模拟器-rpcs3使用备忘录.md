@@ -1,16 +1,16 @@
 ---
-title: "PS3模拟�?rpcs3使用备忘�?
+title: "PS3模拟器-rpcs3使用备忘录"
 date: 2025-07-05
 updated: 2025-07-05
 author: RUINA3S
-tags: [PS3, 模拟�? RPCS3, 教程]
-category: [备忘�? 技术]
+tags: [PS3, 模拟器, RPCS3, 教程]
+category: [备忘录, 技术]
 description: "PS3模拟器RPCS3的下载安装与使用记录"
-status: 记录�?
+status: 记录中
 draft: true
 ---
 
-# PS3模拟�?rpcs3使用备忘�?
+# PS3模拟器-rpcs3使用备忘录
 
 
 
@@ -18,23 +18,23 @@ draft: true
 
 
 
-# 1.下载、安装、汉�?
+# 1.下载、安装、汉化
 
-下载页面下载即可（实际还是从GitHub上下载[RPCS3/rpcs3: PlayStation 3 emulator and debugger](https://github.com/RPCS3/rpcs3)�?
+下载页面下载即可（实际还是从GitHub上下载[RPCS3/rpcs3: PlayStation 3 emulator and debugger](https://github.com/RPCS3/rpcs3)）
 
-![image-20250705102653133](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20250705102653133.png)
+![image-20250705102653133](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20250705102653133.png)
 
-下载后直接解压便�?
+下载后直接解压便可
 
 ![image-20250705103851953](C:/Users/RUINA/AppData/Roaming/Typora/typora-user-images/image-20250705103851953.png)
 
-汉化来自贴吧（补丁及整合包[蓝奏](https://wwxs.lanzoum.com/b04dsd1oj)密码:fpou�?
+汉化来自贴吧（补丁及整合包[蓝奏](https://wwxs.lanzoum.com/b04dsd1oj)密码:fpou）
 
 解压后放入qt或qt6文件夹，启动模拟器选择help > language 中选择中文，重启模拟器
 
 
 
-安装PS3系统固件（下载自[如何更新PS3主机系统软件](https://www.playstation.com/zh-hans-hk/support/hardware/ps3/system-software/)2025�?月更新V4.92版本�?
+安装PS3系统固件（下载自[如何更新PS3主机系统软件](https://www.playstation.com/zh-hans-hk/support/hardware/ps3/system-software/)2025年3月更新V4.92版本）
 
 选择 文件 > 安装固件
 
@@ -52,7 +52,7 @@ draft: true
 
 一些视频推荐：
 
-PS3模拟器rpcs3小白快速上手教程（根据官方教程分析�? BV12K411U7mR
+PS3模拟器rpcs3小白快速上手教程（根据官方教程分析）- BV12K411U7mR
 
 https://www.bilibili.com/video/BV12K411U7mR
 
@@ -62,7 +62,7 @@ https://www.bilibili.com/video/BV1TY411M7KA
 
 
 
-备注�?
+备注：
 
 运行《机战OG月之民》使用了如下设置改动
 

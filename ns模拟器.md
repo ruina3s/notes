@@ -1,49 +1,49 @@
----
-title: "NSÄ£ÄâÆ÷Ê¹ÓÃ"
+ï»¿---
+title: "NSæ¨¡æ‹Ÿå™¨ä½¿ç”¨"
 date: 2024-01-22
 updated: 2024-01-22
 author: RUINA3S
-tags: [NS, Ä£ÄâÆ÷, YUZU, ½Ì³Ì]
-category: [±¸ÍüÂ¼, ¼¼Êõ]
-description: "Nintendo SwitchÄ£ÄâÆ÷YUZUµÄÊ¹ÓÃ¼ÇÂ¼"
-status: ÒÑÍê³É
+tags: [NS, æ¨¡æ‹Ÿå™¨, YUZU, æ•™ç¨‹]
+category: [å¤‡å¿˜å½•, æŠ€æœ¯]
+description: "Nintendo Switchæ¨¡æ‹Ÿå™¨YUZUçš„ä½¿ç”¨è®°å½•"
+status: å·²å®Œæˆ
 draft: false
 ---
 
-# NSÄ£ÄâÆ÷Ê¹ÓÃ
+# NSæ¨¡æ‹Ÿå™¨ä½¿ç”¨
 
-Nintendo switchÓÎÏ·Ä£ÄâÆ÷Ä¿Ç°½Ï³£¼ûµÄÓĞÁ½¿î
+Nintendo switchæ¸¸æˆæ¨¡æ‹Ÿå™¨ç›®å‰è¾ƒå¸¸è§çš„æœ‰ä¸¤æ¬¾
 
-![image-20240122172508697](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240122172508697.png)
+![image-20240122172508697](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240122172508697.png)
 
-´Ë´¦½ö¼ÇÂ¼¸öÈËÔÚÊ¹ÓÃµÄYUZUÄ£ÄâÆ÷Ïà¹ØÄÚÈİ
+æ­¤å¤„ä»…è®°å½•ä¸ªäººåœ¨ä½¿ç”¨çš„YUZUæ¨¡æ‹Ÿå™¨ç›¸å…³å†…å®¹
 
 [toc]
 
 
 
-## °²×°
+## å®‰è£…
 
-YUZUµÄ¹ÙÍø[yuzu - Nintendo Switch Emulator (yuzu-emu.org)](https://yuzu-emu.org/)
+YUZUçš„å®˜ç½‘[yuzu - Nintendo Switch Emulator (yuzu-emu.org)](https://yuzu-emu.org/)
 
-Ò²¿ÉÒÔÖ±½ÓÈ¥YUZUÔÚGitHubµÄÏîÄ¿ÏÂÔØ°²×°[yuzu-emu/yuzu-mainline (github.com)](https://github.com/yuzu-emu/yuzu-mainline)
-
-
-
-## Ê¹ÓÃ
-
-ÏÂÔØºÃswitchÓÎÏ·ºó£¬´ò¿ªÄ£ÄâÆ÷Ñ¡ÔñÄãÓÎÏ··ÅµÄÎ»ÖÃ**Ìí¼ÓÓÎÏ·Ä¿Â¼**
-
-![image-20240122173640469](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240122173640469.png)
+ä¹Ÿå¯ä»¥ç›´æ¥å»YUZUåœ¨GitHubçš„é¡¹ç›®ä¸‹è½½å®‰è£…[yuzu-emu/yuzu-mainline (github.com)](https://github.com/yuzu-emu/yuzu-mainline)
 
 
 
-## ÓÎÏ·Ïà¹Ø
+## ä½¿ç”¨
 
- YUZUÄ£ÄâÆ÷Ö»ÄÜÊ¶±ğ¸ñÊ½Îª**xci**¡¢ÒÔ¼°**nsp**µÄÓÎÏ·ÎÄ¼ş£¬ÈôÏÂÔØµ½¸ñÊ½Îª**nsz**µÄÓÎÏ·£¬ĞèÒªÊ¹ÓÃ**SAK**Õâ¸öÈí¼ş½øĞĞ×ª»»£¨Êµ¼ÊÎªÓÎÏ·ÎÄ¼ş½âÃÜ£©
+ä¸‹è½½å¥½switchæ¸¸æˆåï¼Œæ‰“å¼€æ¨¡æ‹Ÿå™¨é€‰æ‹©ä½ æ¸¸æˆæ”¾çš„ä½ç½®**æ·»åŠ æ¸¸æˆç›®å½•**
 
-![image-20240122173910897](https://gcore.jsdelivr.net/gh/ruina3s/imgs@main/image-20240122173910897.png)
+![image-20240122173640469](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240122173640469.png)
 
-Ê¹ÓÃ¸ÃÈí¼şÒ²ÓĞĞèÒª×¢ÒâµÄ²¿·Ö£¬ÄãĞèÒªÈ¥ÏÂÔØ×îĞÂµÄ**prod.keys**Óë**title.keys**ÎÄ¼ş·Åµ½¸ÃÈí¼şÄ¿Â¼ÏÂµÄ**bin**ÎÄ¼ş¼ĞÄÚ
 
-×¢£ºÈôÓÎÏ·Ô½ĞÂ£¬ÄÇÃ´ÕâÁ½¸öÎÄ¼şÔ½ĞèÒªÏÂÔØ×îĞÂ£¬·ñÔòÈí¼şÎŞ·¨¶ÔÓÎÏ·ÎÄ¼ş½øĞĞ×ª»»
+
+## æ¸¸æˆç›¸å…³
+
+ YUZUæ¨¡æ‹Ÿå™¨åªèƒ½è¯†åˆ«æ ¼å¼ä¸º**xci**ã€ä»¥åŠ**nsp**çš„æ¸¸æˆæ–‡ä»¶ï¼Œè‹¥ä¸‹è½½åˆ°æ ¼å¼ä¸º**nsz**çš„æ¸¸æˆï¼Œéœ€è¦ä½¿ç”¨**SAK**è¿™ä¸ªè½¯ä»¶è¿›è¡Œè½¬æ¢ï¼ˆå®é™…ä¸ºæ¸¸æˆæ–‡ä»¶è§£å¯†ï¼‰
+
+![image-20240122173910897](https://raw.githubusercontent.com/ruina3s/imgs/main/image-20240122173910897.png)
+
+ä½¿ç”¨è¯¥è½¯ä»¶ä¹Ÿæœ‰éœ€è¦æ³¨æ„çš„éƒ¨åˆ†ï¼Œä½ éœ€è¦å»ä¸‹è½½æœ€æ–°çš„**prod.keys**ä¸**title.keys**æ–‡ä»¶æ”¾åˆ°è¯¥è½¯ä»¶ç›®å½•ä¸‹çš„**bin**æ–‡ä»¶å¤¹å†…
+
+æ³¨ï¼šè‹¥æ¸¸æˆè¶Šæ–°ï¼Œé‚£ä¹ˆè¿™ä¸¤ä¸ªæ–‡ä»¶è¶Šéœ€è¦ä¸‹è½½æœ€æ–°ï¼Œå¦åˆ™è½¯ä»¶æ— æ³•å¯¹æ¸¸æˆæ–‡ä»¶è¿›è¡Œè½¬æ¢

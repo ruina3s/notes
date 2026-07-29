@@ -4,9 +4,9 @@ date: 2023-08-30
 updated: 2023-08-30
 author: RUINA3S
 tags: [LaTeX, 公式, 颜色, 教程]
-category: [备忘�? 技术]
-description: "LaTeX公式颜色及格式自用记�?
-status: 记录�?
+category: [备忘录, 技术]
+description: "LaTeX公式颜色及格式自用记录"
+status: 记录中
 draft: true
 ---
 
@@ -43,7 +43,7 @@ $$
 
 
 
-> 早知道可以调颜色就不用管上面的了，以下颜色为win10文件夹图标颜色（但看�?黄色不咋好看�?
+> 早知道可以调颜色就不用管上面的了，以下颜色为win10文件夹图标颜色（但看这*黄色不咋好看）
 
 $$
 \color{#fee082}{test}\\
