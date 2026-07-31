@@ -4,9 +4,8 @@ date: 2023-01-24
 updated: 2023-01-24
 author: RUINA3S
 tags: [JavaScript, 教程, 编程]
-category: [备忘录, 技术]
+categories: [技术, 编程]
 description: "JavaScript编程语言再学习笔记"
-status: 已完成
 draft: false
 ---
 

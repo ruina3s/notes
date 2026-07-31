@@ -4,9 +4,8 @@ date: 2023-01-23
 updated: 2023-01-23
 author: RUINA3S
 tags: [正则表达式, REGEX, 教程]
-category: [备忘录, 技术]
+categories: [技术, 正则表达式]
 description: "正则表达式语法学习笔记"
-status: 已完成
 draft: false
 ---
 

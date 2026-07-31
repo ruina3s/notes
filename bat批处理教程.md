@@ -4,9 +4,8 @@ date: 2022-05-18
 updated: 2022-05-18
 author: RUINA3S
 tags: [BAT, 批处理, CMD, 教程]
-category: [备忘录, 技术]
+categories: [技术, 脚本]
 description: "Windows批处理脚本(BAT)学习教程"
-status: 已完成
 draft: false
 ---
 

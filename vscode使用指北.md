@@ -4,9 +4,8 @@ date: 2024-04-28
 updated: 2024-04-28
 author: RUINA3S
 tags: [VSCode, 教程, 扩展, 配置]
-category: [备忘录, 技术]
+categories: [技术, 开发工具]
 description: "Visual Studio Code的下载安装、汉化、扩展安装与美化指南"
-status: 已完成
 draft: false
 ---
 

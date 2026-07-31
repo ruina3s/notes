@@ -4,9 +4,8 @@ date: 2025-01-01
 updated: 2025-01-01
 author: RUINA3S
 tags: [Windows, 激活, MAS]
-category: [备忘录, 技术]
+categories: [技术, Windows]
 description: "Windows系统激活方法记录"
-status: 已完成
 draft: false
 ---
 

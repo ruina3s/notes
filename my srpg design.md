@@ -4,9 +4,8 @@ date: 2025-01-01
 updated: 2025-01-01
 author: RUINA3S
 tags: [SRPG, 游戏设计, 策划]
-category: [备忘录, 创作]
+categories: [ACGN, 游戏设计]
 description: "自研SRPG（策略角色扮演游戏）设计文档"
-status: 记录中
 draft: true
 ---
 

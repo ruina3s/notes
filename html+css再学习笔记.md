@@ -4,9 +4,8 @@ date: 2022-08-19
 updated: 2022-08-19
 author: RUINA3S
 tags: [HTML, CSS, 前端, 教程]
-category: [备忘录, 技术]
+categories: [技术, 前端]
 description: "HTML5与CSS3的再学习笔记"
-status: 已完成
 draft: false
 ---
 

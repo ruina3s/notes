@@ -4,9 +4,8 @@ date: 2024-01-22
 updated: 2024-01-22
 author: RUINA3S
 tags: [NS, 模拟器, YUZU, 教程]
-category: [备忘录, 技术]
+categories: [ACGN, 游戏模拟器]
 description: "Nintendo Switch模拟器YUZU的使用记录"
-status: 已完成
 draft: false
 ---
 

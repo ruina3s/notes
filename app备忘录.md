@@ -4,9 +4,8 @@ date: 2025-01-01
 updated: 2025-01-01
 author: RUINA3S
 tags: [App, 备忘录, 推荐]
-category: [备忘录, 软件]
+categories: [日常, App]
 description: "记录容易忘记名字的App"
-status: 记录中
 draft: true
 ---
 

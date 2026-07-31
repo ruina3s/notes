@@ -4,9 +4,8 @@ date: 2025-01-01
 updated: 2025-01-01
 author: RUINA3S
 tags: [Markdown, 教程, 语法]
-category: [备忘录, 学习]
+categories: [技术, Markdown]
 description: "Markdown语法学习笔记"
-status: 已完成
 draft: false
 ---
 

@@ -4,9 +4,8 @@ date: 2025-01-01
 updated: 2025-01-01
 author: RUINA3S
 tags: [Mermaid, 政治, 图表]
-category: [备忘录, 学习]
+categories: [日常, 常识]
 description: "中国政治机构关系Mermaid流程图"
-status: 记录中
 draft: true
 ---
 

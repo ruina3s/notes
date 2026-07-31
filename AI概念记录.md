@@ -4,9 +4,8 @@ date: 2026-05-05
 updated: 2026-05-05
 author: RUINA3S
 tags: [AI, 概念记录]
-category: [备忘录]
+categories: [技术, AI]
 description: "AI相关概念"
-status: 已完成
 draft: false
 ---
 

@@ -4,9 +4,8 @@ date: 2022-12-17
 updated: 2022-12-17
 author: RUINA3S
 tags: [SQLite, 数据库, 教程]
-category: [备忘录, 技术]
+categories: [技术, 数据库]
 description: "SQLite数据库安装与基础语法学习笔记"
-status: 已完成
 draft: false
 ---
 

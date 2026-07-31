@@ -4,9 +4,8 @@ date: 2022-08-06
 updated: 2022-08-06
 author: RUINA3S
 tags: [PC, Windows, 使用指南, 备忘录]
-category: [备忘录, 技术]
+categories: [技术, Windows]
 description: "PC硬件与Windows软件使用相关问题记录"
-status: 已完成
 draft: false
 ---
 

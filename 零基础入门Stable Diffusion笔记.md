@@ -4,9 +4,8 @@ date: 2025-08-20
 updated: 2025-08-20
 author: RUINA3S
 tags: [Stable Diffusion, AI绘画, 教程]
-category: [备忘录, 学习]
+categories: [技术, AI绘画]
 description: "Stable Diffusion入门学习笔记"
-status: 记录中
 draft: true
 ---
 

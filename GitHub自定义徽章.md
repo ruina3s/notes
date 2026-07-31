@@ -4,9 +4,8 @@ date: 2022-10-31
 updated: 2022-10-31
 author: RUINA3S
 tags: [GitHub, 徽章, Shields, 教程]
-category: [备忘录, 技术]
+categories: [技术, GitHub]
 description: "使用Shields.io在Markdown中添加自定义徽章的方法"
-status: 已完成
 draft: false
 ---
 

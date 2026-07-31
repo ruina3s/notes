@@ -4,9 +4,8 @@ date: 2026-02-11
 updated: 2026-02-11
 author: RUINA3S
 tags: [Windows, 服务优化, 系统]
-category: [备忘录, 技术]
+categories: [技术, Windows]
 description: "Windows可关闭的服务项记录"
-status: 记录中
 draft: true
 ---
 

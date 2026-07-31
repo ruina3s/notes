@@ -4,9 +4,8 @@ date: 2023-08-30
 updated: 2023-08-30
 author: RUINA3S
 tags: [LaTeX, 公式, 颜色, 教程]
-category: [备忘录, 技术]
+categories: [技术, LaTeX]
 description: "LaTeX公式颜色及格式自用记录"
-status: 记录中
 draft: true
 ---
 

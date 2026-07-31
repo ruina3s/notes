@@ -4,9 +4,8 @@ date: 2022-11-28
 updated: 2022-11-28
 author: RUINA3S
 tags: [Windows, 主题, 个性化]
-category: [备忘录, 技术]
+categories: [技术, Windows]
 description: "Windows 10/11主题设置与自定义方法"
-status: 记录中
 draft: true
 ---
 

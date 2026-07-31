@@ -4,9 +4,8 @@ date: 2022-06-20
 updated: 2022-06-20
 author: RUINA3S
 tags: [LaTeX, 教程, 排版]
-category: [备忘录, 技术]
+categories: [技术, LaTeX]
 description: "LaTeX学习笔记，包含安装配置与基础语法"
-status: 已完成
 draft: false
 ---
 
