@@ -18,6 +18,7 @@ draft: true
 ## 2.绘图
 
 tikz
+
 GeoTikTrim(把ggb转为tikz代码的游览器插件)：https://gitee.com/Jack0920/ggb-tikz-code-filter
 
 ## 3.公式识别
